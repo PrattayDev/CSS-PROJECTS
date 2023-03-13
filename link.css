@@ -1,0 +1,28 @@
+body{
+    margin: 100px;
+}
+
+
+
+
+
+a{
+    color: rgba(30, 211, 193, 0.882);
+text-decoration: none;
+background-color:rebeccapurple;
+padding: 15px 20px;
+font-size: 25px;
+border-radius: 10px;
+
+}
+
+a:visited{
+    background-color: red;
+    color: #fff;
+}
+
+
+a:active{
+background: green;
+color: black;
+}

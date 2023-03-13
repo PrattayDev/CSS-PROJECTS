@@ -1,0 +1,31 @@
+.box{
+    width: auto;
+    height: auto;
+    background-color: aquamarine;
+float: left;
+}
+
+.box1{
+    width: 200px;
+    height: 150px;
+    background-color: blanchedalmond;
+}
+
+.box2{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(237, 147, 10);
+}
+
+.box3{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(15, 33, 230);
+}
+
+.box4{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(21, 233, 49);
+}
+

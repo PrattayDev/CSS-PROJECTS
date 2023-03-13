@@ -1,0 +1,6 @@
+div ~ p{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border: 10px solid yellow
+}

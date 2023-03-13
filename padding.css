@@ -1,0 +1,11 @@
+.padding{
+    width: 500px;
+    height: 500px;
+    background-color: cadetblue;
+    border-radius: 500px;
+    padding: 50px 50px 50px 50px;
+}
+
+.padding p{
+    padding: 50px 50px 50px 50px;
+}

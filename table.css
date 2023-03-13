@@ -1,0 +1,37 @@
+body{
+    margin: 50px;
+}
+
+
+
+#info{
+    font-family: Arial;
+    font-size: 18px;
+    border-collapse: collapse;
+    width: 80%;
+
+}
+
+#info td, #info th{
+    border: 2px solid rgb(7, 7, 8);
+    padding: 10px 10px;
+    
+
+}
+
+#info tr:nth-child(even){
+
+background-color: rgb(186, 178, 178);
+
+}
+
+#info tr:hover{
+    background-color: blanchedalmond;
+}
+
+
+#info th{
+    background: rgba(4, 52, 4, 0.966);
+    color: aliceblue;
+}
+

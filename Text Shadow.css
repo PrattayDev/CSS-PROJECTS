@@ -1,0 +1,29 @@
+.shadow1{
+    text-shadow: 3px 3px;
+}
+.shadow2{
+    color: darkgoldenrod;
+    text-shadow: 4px 1px darkblue;
+}
+.shadow3{
+    text-shadow: 3px 3px darkorchid;
+}
+.shadow4{
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+}
+.shadow5{
+    text-shadow: 0 0 3px #ff0000;
+}
+.shadow6{
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+.shadow7{
+    color: white;
+    text-shadow: 1px 1px 2px #0000, 0 0 25px #0000ff, 0 0 5px darkblue;
+}
+.shadow8{
+    color: darkgoldenrod;
+    text-shadow: -1px 0 #000, 0 1px #0000, 0 -1px black
+}
+
